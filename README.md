@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**Arseny-Rise/Arseny-Rise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Привет! Я Арсений 👋
 
-Here are some ideas to get you started:
+💻 Frontend-разработчик с любовью к VUE и TypeScript  
+🌱 Сейчас являюсь Head of frontend
+🔭 Веду менторство и помогаю с поиском работы
+📫 Связаться со мной: https://t.me/arsenii_aa
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://github-profile-trophy.vercel.app/?username=arseny-rise
+
+## 🧰 Технологии:
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
+...
+
+## 📈 GitHub статистика:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?usernamearseny-rise&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=arseny-rise&show_icons=true&theme=radical)
