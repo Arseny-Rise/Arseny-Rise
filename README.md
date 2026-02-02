@@ -15,6 +15,9 @@
 **Фреймворки и языки**  
 ![Vue](https://img.shields.io/badge/-Vue.js-42b883?style=flat&logo=vue.js&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/-Nuxt-00C58E?style=flat&logo=nuxt.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Next](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-e34c26?style=flat&logo=html5&logoColor=white)
@@ -51,7 +54,6 @@
 
 ## 📈 Статистика GitHub
 
-![Arseny's GitHub stats](https://github-readme-stats.vercel.app/api?username=arseny-rise&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arseny-rise&layout=compact&theme=tokyonight)
 
 ---
